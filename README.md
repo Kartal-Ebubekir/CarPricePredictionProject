@@ -32,3 +32,4 @@ scikit-learn
 Ebubekir Kartal
 - [GitHub](https://github.com/Kartal-Ebubekir)
 - [LinkedIn](https://www.linkedin.com/in/ebubekir-kartal-645091335/)
+- [Kaggle](https://www.kaggle.com/ebubekirkartal443)
