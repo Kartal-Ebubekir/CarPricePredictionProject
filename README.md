@@ -2,6 +2,7 @@
 
 Bu proje, çeşitli araba özelliklerini kullanarak ikinci el araba fiyatlarını tahmin etmeyi amaçlayan bir makine öğrenmesi modelini içermektedir. Proje kapsamında veri temizleme, keşifsel veri analizi (EDA) ve özellik mühendisliği adımları uygulanmıştır. Fiyat tahmini için Lineer Regresyon ve Ridge Regresyon modelleri karşılaştırılmış, en iyi performansı gösteren model `GridSearchCV` ile optimize edilmiştir.
 
+Veri seti kaggle'dan alınmıştır.[Veri setine ulasmak için tıklayınız.](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 ## Sonuç
 
 Modelleme sonucunda, Ridge Regresyon modelinin test verilerinde daha düşük hata oranı (MSE) ve daha yüksek R² skoru ile daha iyi bir performans sergilediği görülmüştür.
